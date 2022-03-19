@@ -1,0 +1,66 @@
+body{
+    margin: 0px;
+    text-align: center;
+    color: #40514E;
+    line-height: 1.5;
+    
+
+
+}
+h1{ font-size: 400%;
+    width: 50%;
+    margin : 0 auto 0 auto ;
+    color:#45b29a;
+    
+
+}
+.top-container{
+    background-color: #E0EBE8;
+    position: relative;
+    padding-top: 100px;
+    font-family: cursive;
+    
+   
+    
+    
+}
+
+.top-cloud{
+position: absolute;
+right: 300px;
+top: 50px;
+
+
+}
+.bottom-cloud{
+left: 300px;
+bottom: 300px;
+
+    position: absolute;
+  
+}
+.mountain{
+    background-color: #E0EBE8;
+}
+.below-heading{
+    color:#45b29a ;
+    font-size: 200%;
+}
+.thirdcloud{
+    position: relative;
+    left: 1000px;
+    bottom: 150px;
+   
+    
+}
+.hi{
+    font-family: cursive;
+    color: #45b29a;
+    font-size: 2em;
+}
+hr{
+   border: dotted #b8b5b5 6PX;
+   border-bottom: NONE;
+   width: 4%;
+
+}
